@@ -1,0 +1,1 @@
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/doctorfloppa/mark/main/floppa", true))()
